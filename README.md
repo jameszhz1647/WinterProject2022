@@ -47,7 +47,7 @@ Source: https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-data
 
 ### Pipeline:
 
-![pipeline](/home/jameszhz/Desktop/ME499/WinterProject2022/pipeline.jpg)
+![pipeline](pipeline.jpg)
 
 
 
@@ -63,11 +63,11 @@ For more detail: https://docs.opencv.org/3.4/d2/d99/tutorial_js_face_detection.h
 
 In this project, VGG19 model is used as backbone for feature extraction. VGG19 is a very deep Convolutional Neural Network (CNN) for large-scale image recognition. The default architecture is shown following: 
 
-![VGG19](/home/jameszhz/Desktop/ME499/WinterProject2022/VGG19.png)
+![VGG19](VGG19.png)
 
 The backbone layers I adapted from VGG19 include two Conv3x3 (64) , two Conv3x3(128), four Conv3x3(256), eight Conv3x3(512) and four MaxPooling. Then, I add one flatten layer and one sigmoid dense layer to build the classification model shown below:
 
-![model](/home/jameszhz/Desktop/ME499/WinterProject2022/model.png)
+![model](model.png)
 
 
 
