@@ -79,6 +79,8 @@ Although this project can function well detecting few people in real time, it mi
 
 ### Demo:
 
+https://youtu.be/gskzlC876W8
 
+In this demo, text color show mask wearing(green) or no mask(red), and box color show social distance violation(red) or not(green).
 
  
