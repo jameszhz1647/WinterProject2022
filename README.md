@@ -11,7 +11,7 @@ There are two general tasks this project reaches:
 
 
 
-### Dependences: 
+### Dependencies: 
 
 Numpy : linear algebra operation
 
